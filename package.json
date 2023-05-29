@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@popperjs/core": "^2.11.6",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "axios": "^1.1.2",
+    "bootstrap": "^5.2.3",
+    "laravel-vite-plugin": "^0.7.5",
+    "postcss": "^8.4.23",
+    "sass": "^1.62.1",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.8",
+    "vue": "^3.3.4"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.2.96",
+    "@progress/kendo-vue-excel-export": "^3.10.2",
+    "vite-plugin-vuetify": "^1.0.2",
+    "vue-axios": "^3.5.2",
+    "vue-router": "^4.2.1",
+    "vuetable-2": "^2.0.0-beta.4",
+    "vuetify": "^3.3.1",
+    "vuex": "^4.1.0",
+    "vuex-persistedstate": "^4.1.0",
+    "xlsx": "^0.18.5"
+  }
+}
